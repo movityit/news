@@ -5,9 +5,9 @@
   img: https://cdn.countryflags.com/thumbs/italy/flag-400.png
   text: Italiano
   
-- lang: fur
-  img: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bandiere_dal_Friûl.svg/2880px-Bandiere_dal_Friûl.svg.png
-  text: Furlan
+#- lang: fur
+  #img: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bandiere_dal_Friûl.svg/2880px-Bandiere_dal_Friûl.svg.png
+  #text: Furlan
   
 - lang: en
   img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
@@ -17,6 +17,6 @@
   img: https://cdn.countryflags.com/thumbs/france/flag-400.png
   text: Français
 
-- lang: slo
+- lang: sl
   img: https://cdn.countryflags.com/thumbs/slovenia/flag-400.png
   text: Slovenščina
