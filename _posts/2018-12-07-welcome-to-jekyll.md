@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to Jekyll!
 subheading: A awesome static site generator.
-author: Jeffrey
+author: Marco Caco
 categories: jekyll
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
